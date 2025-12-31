@@ -1,6 +1,6 @@
 # TTWR WebPatcher
 
-### URL: [https://patcher.moekyun.me](https://patcher.moekyun.me/)
+### URL: [https://web-patcher.moekyun.me](https://web-patcher.moekyun.me/)
 
 Mirror of the original TWO-TORIAL's webpatcher.
 
