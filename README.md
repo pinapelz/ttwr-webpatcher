@@ -2,11 +2,11 @@
 
 ### URL: [https://web-patcher.moekyun.me](https://web-patcher.moekyun.me/)
 
-Mirror of the original TWO-TORIAL's webpatcher.
+Mirrored version of the original TWO-TORIAL's webpatcher.
 
 ## About
 
-This repo contains web patches for games incompatible with [spice2x](https://spice2x.github.io/). See our [spice2x patcher](https://github.com/pinapelz/sp2xpatcher/) for those.   
+This repo contains web patches for games incompatible with [spice2x](https://spice2x.github.io/). See our [spice2x patcher](https://github.com/pinapelz/sp2xpatcher/) for those.
 We'll be keeping the **repo public** and **url alive** for as long as possible, **feel free to [contibute](#Contributing)** for the community through pull requests!
 
 ## Usage
